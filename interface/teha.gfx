@@ -1,0 +1,6 @@
+spriteTypes = {
+    SpriteType = {
+        name = "GFX_radio_tapok"
+        texturefile = "gfx/interface/technologies/advanced_decryption.dds"
+}
+}
